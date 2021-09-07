@@ -41,3 +41,6 @@
 ## 5. Conclusiones: 
 
 ## 6. Bibliografia:
+
+- Robbins, A. H. (2008). Análisis de Circuitos Teoría y Práctica. Santa Fe-México: Cengage Learning.
+
