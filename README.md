@@ -69,13 +69,15 @@
 
 ![image](https://user-images.githubusercontent.com/85208164/132584749-d2e9a9a1-4597-45bc-a573-87cfe9be255b.png)
 
-17. a. Para cierta carga Y balanceada, Vab = 208 V∠30°, Ia =24 A∠40° y f = 60 Hz. Determine la carga (R y L o C).
+17. a. Para cierta carga Y balanceada, Vab = 208 V∠30°, Ia =24 A∠40° y f = 60 Hz. Determine la carga (R y L o C). 
 b. Repita el inciso (a) si Vbc = 208 V∠-30° e Ic = 12 A∠140°.
 
 
 19. Una carga balanceada a 60 Hz tiene una corriente de Ibc 4.5 A∠85. El voltaje de línea es de 240 volts y Vab se toma como referencia.
 a. Encuentre las otras corrientes de fase.
 b. Encuentre las corrientes de línea.
+
+
 
 
 21. Para la figura 24-49, Van = 120 V∠0. Dibuje el equivalente de una sola fase y:
@@ -85,6 +87,7 @@ b. Encuentre el voltaje de línea EAB, magnitud y ángulo.
 ![image](https://user-images.githubusercontent.com/85208164/132584809-ad665b3a-61b7-4e2d-9b1f-7b80935f0091.png)
 
 ![image](https://user-images.githubusercontent.com/85208164/132584842-066e2030-e1fb-403a-b514-f9fb6ea81485.png)
+
 
 23. Para la figura 24-48, EAN =120 V∠-10. Encuentre la corriente de línea con el método equivalente de una sola fase.
 
