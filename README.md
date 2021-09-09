@@ -208,12 +208,161 @@
 
 ![image](https://user-images.githubusercontent.com/85208164/132585006-c79a11ef-241c-49c1-9a6a-6005dd25e01e.png)
 
+**31. Para la figura 24-21(a), ZY = 15Ω+j20 , ZΔ=9Ω- j12 , Zlínea =0.1Ω+ j0.1 , e Iab= 40A∠73.13°. Encuentre el voltaje de fase Y Van,magnitud y ángulo.**
+
+![image](https://user-images.githubusercontent.com/84789076/132774416-f06d01db-bbcb-4059-abae-0f325dcb8c5c.png)
+
+![image](https://user-images.githubusercontent.com/84789076/132774735-9172710d-dcb2-4d21-b51b-4f9d435e26ea.png)
+
+**33. Repita el problema 32 para la carga balanceada de la figura 24-51, dado EAN = 120 V.**
+
+![image](https://user-images.githubusercontent.com/84789076/132774783-99b87d73-9993-4b46-b5ae-b15ecc785045.png)
+
+![image](https://user-images.githubusercontent.com/84789076/132774843-1856a9de-cf9e-48be-83ff-6e57aece8d72.png)
+
+![image](https://user-images.githubusercontent.com/84789076/132774889-da7a7a25-0813-4d43-be00-8633c653bc4a.png)
+
+**35. Para la figura 24-47, calcule las potencias real, reactiva y aparente con las fórmulas para PT, QT, y ST de la tabla 24-2. (Use VL 207.8 V en lugar del valor nominal de 208 V.) Compare sus resultados con los del problema 34.**
+
+![image](https://user-images.githubusercontent.com/84789076/132774953-942ea918-06fb-460a-94d7-3cd9b465c63e.png)
+
+![image](https://user-images.githubusercontent.com/84789076/132774971-a3e05bff-5bf5-4a0f-a809-38af857a97e5.png)
+
+![image](https://user-images.githubusercontent.com/84789076/132774989-2d290ed5-94f0-40c3-81a9-0a459da58fc6.png)
+
+
+**37. Para la figura 24-48, EAB = 208 V. Calcule las potencias real, reactiva y aparente con las fórmulas para PT, QT, y ST de la tabla 24-2. Compare sus resultados con los del problema 36.**
+
+![image](https://user-images.githubusercontent.com/84789076/132775052-40f51e57-ea34-4751-b56e-254010014cfb.png)
+
+![image](https://user-images.githubusercontent.com/84789076/132775164-d119ac40-3cbd-4290-9f46-647394a40ce8.png)
+
+![image](https://user-images.githubusercontent.com/84789076/132775183-08a8af38-0c9d-4fec-b53e-2e8ace9af075.png)
+
+**39. Para la figura 24-53, si Vab = 600 V, determine la potencia total, la potencia reactiva total, la potencia aparente total y el factor de potencia.**
+
+![image](https://user-images.githubusercontent.com/84789076/132775249-c6fade1a-e405-4aaa-97ef-0a932fa911e0.png)
+
+**41. Para la figura 24-19, si Vab = 480 V, determine la potencia total, la potencia reactiva total, la potencia aparente total y el factor de potencia.**
+
+![image](https://user-images.githubusercontent.com/84789076/132775333-1000c3f1-7c4f-471b-a522-543543bb6af0.png)
+
+![image](https://user-images.githubusercontent.com/84789076/132775361-5ea6a8f3-70f8-4ed7-a4ea-e20f6d706510.png)
+
+**43. Vab = 208 V para una carga balanceada Y, PT = 1200 W, y QT = 750 VAR/(ind). Seleccione Van como referencia y determine Ia. (Use el triángulo de potencia)**
+
+![image](https://user-images.githubusercontent.com/84789076/132775393-2597cd7f-2387-4b5a-9bb3-3362d3378bae.png)
+
+**45. Los capacitores de la figura 24-54 están conectados en Y y cada uno tiene el valor de C = 120 uF. Calcule el factor de potencia resultante. La frecuencia es de 60 Hz**
+
+![image](https://user-images.githubusercontent.com/84789076/132775490-4b652b66-4e88-453e-8126-09b015638430.png)
+
+![image](https://user-images.githubusercontent.com/84789076/132775442-644e71d5-420c-4947-80ea-81f3fdf9cae5.png)
+
+![image](https://user-images.githubusercontent.com/84789076/132775454-e38591a9-4aec-4ad8-abd0-d81bd4b78619.png)
+
+**47. Para la figura 24-47, el voltaje de fase del generador es de 120 volts.**
+
+![image](https://user-images.githubusercontent.com/84789076/132775531-d716242d-dabd-4ccf-a6e0-7628e6b15556.png)
+
+a. Dibuje tres wattímetros correctamente en el circuito.
+
+![image](https://user-images.githubusercontent.com/84789076/132775567-50a705e1-d75b-46ec-8cdb-66de0151e02c.png)
+
+b. Calcule la lectura de cada uno.
+
+![image](https://user-images.githubusercontent.com/84789076/132775603-3ecf7608-1c2c-4ace-aef5-87e988d409d5.png)
+
+c. Sume las lecturas y compárelas con el resultado de 2304 W que se obtuvo en el problema 34.
+
+![image](https://user-images.githubusercontent.com/84789076/132775632-279a6ae1-e768-44f8-985a-18c616340fd7.png)
+
+**49. Para el circuito de la figura 24-56, Vab = 208 V∠30°.**
+
+![image](https://user-images.githubusercontent.com/84789076/132775667-0f73222f-e857-4837-bf46-1e9f77facd90.png)
+
+a. Determine la magnitud y ángulo de las corrientes.
+
+![image](https://user-images.githubusercontent.com/84789076/132775698-edda9c01-0e05-45db-bc0f-38b4e05eac9e.png)
+
+b. Determine la potencia por fase y la potencia total, PT.
+
+![image](https://user-images.githubusercontent.com/84789076/132775746-0151beaf-88c2-4eb5-a029-7d695e9a72d0.png)
+
+c. Calcule las lecturas de cada wattímetro.
+
+![image](https://user-images.githubusercontent.com/84789076/132776442-89695f04-a98a-4900-8abd-a50522602ecd.png)
+
+d. Sume las lecturas de los medidores y compare los resultados para PT de (b).
+
+![image](https://user-images.githubusercontent.com/84789076/132776463-f86d35b6-17d5-4fd6-8a48-87565b553e36.png)
+
+**51. Considere el circuito de la figura 24-56.**
+
+![image](https://user-images.githubusercontent.com/84789076/132776503-86b614f8-f388-466d-8108-95132b97b777.png)
+
+a. Calcule el factor de potencia a partir del ángulo de las impedancias de ase.
+
+![image](https://user-images.githubusercontent.com/84789076/132776547-9c55bcfd-e4c3-4abc-a47b-c01925dc7421.png)
+
+b. En el problema 49 se determinaron las lecturas del wattímetro en h = 164 W y P = 870 W. Sustituya estos valores en la ecuación -24 y calcule el factor de potencia de la carga. Compare sus resultados con los del inciso (a).
+
+![image](https://user-images.githubusercontent.com/84789076/132776635-4df43918-db0a-4f30-beca-6c6984dab590.png)
+
+**53. Para la figura 24-58, Rab = 60Ω , Zbc 80Ω+ j60Ω . Calcule**
+
+![image](https://user-images.githubusercontent.com/84789076/132776685-ad0764e9-43a6-49a1-bb8d-648dd80b120a.png)
+
+a. Las corrientes de fase y de línea.
+
+![image](https://user-images.githubusercontent.com/84789076/132776705-52c4887d-2d3d-43bb-a56f-acc55fab2157.png)
+
+![image](https://user-images.githubusercontent.com/84789076/132776728-32117a84-d40d-4781-907d-3688b2edd1f5.png)
+
+b. La potencia en cada fase y la potencia total.
+
+![image](https://user-images.githubusercontent.com/84789076/132776762-32eaa98d-728e-4abb-a0db-a3e31ca6704a.png)
+
+**55. Para la figura 24-59, calcule lo siguiente:**
+
+![image](https://user-images.githubusercontent.com/84789076/132776796-d25453d0-9fdd-4c6f-ba1b-bc2ca1fb0631.png)
+
+a. Las corrientes de línea, sus magnitudes y ángulos.
+
+![image](https://user-images.githubusercontent.com/84789076/132776820-145149a0-8f97-4d60-8994-e5a1b2a96f60.png)
+
+b. La corriente en el neutro.
+
+![image](https://user-images.githubusercontent.com/84789076/132776838-d1fa5fc8-901b-4a61-99dc-214606fe8c2f.png)
+
+c. La potencia en cada fase.
+
+![image](https://user-images.githubusercontent.com/84789076/132776862-d46fe948-0dd0-45b2-958f-c5026520718d.png)
+
+d. Potencia total en la carga.
+
+![image](https://user-images.githubusercontent.com/84789076/132776881-db223cb7-0040-41ad-aef8-79902899d14d.png)
+
+**57. A partir del problema 56, Ia = 1.94 A∠0.737°, Ib = 4.0 A∠117.7° e Ic = 3.57 A∠91.4°. Calcule lo siguiente:**
+
+![image](https://user-images.githubusercontent.com/84789076/132776926-cb805dee-c2bc-49fe-bb74-884c161ab14c.png)
+
+**a. Los voltajes en cada fase de la carga.**
+
+![image](https://user-images.githubusercontent.com/84789076/132776951-2127a1f8-54b7-473d-afdf-18a471d26b28.png)
+
+**b. El voltaje entre el neutro de la carga y el neutro del generador.**
+
+![image](https://user-images.githubusercontent.com/84789076/132776991-c4a0d86e-abef-4fde-98e5-73effd1b60d7.png)
+
 
 ## 4. Video: 
 
 ## 5. Conclusiones: 
 
-•	Los circuitos polifásicos son aquellos que poseen más de 1 línea de alimentación, pueden estar conectados en estrella o delta, además estos circuitos tienen valores de voltaje y corriente fase, el cual se da cuando se toma una línea y tierra, por otra parte, tienen valores línea a línea, los cuales se dan cuando se toman dos líneas de alimentación.
+* Los circuitos polifásicos son aquellos que poseen más de 1 línea de alimentación, pueden estar conectados en estrella o delta, además estos circuitos tienen valores de voltaje y corriente fase, el cual se da cuando se toma una línea y tierra, por otra parte, tienen valores línea a línea, los cuales se dan cuando se toman dos líneas de alimentación.
+
+* Al analizar los transformadores hemos podido comprender de mejor manera en qué campos se usan los sistemas trifásicos, además de tener una mejor idea a la hora de emplearlos de forma correcta y resolver cualquier tipo de operación o ejercicio. Tenemos una idea más clara sobre los transformadores y sus características fundamentales.
 
 ## 6. Bibliografia:
 
