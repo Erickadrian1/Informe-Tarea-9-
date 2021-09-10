@@ -161,6 +161,7 @@
 
 **b. Repita el inciso (a) si Vbc = 208 V∠-30° e Ic = 12 A∠140°.**
 
+![image](https://user-images.githubusercontent.com/85208164/132779371-545892a8-cec6-4416-8e76-9f484fbb5da2.png)
 
 **19.Una carga balanceada a 60 Hz tiene una corriente de Ibc 4.5 A∠85. El voltaje de línea es de 240 volts y Vab se toma como referencia.** 
 
@@ -168,7 +169,7 @@
 
 **b. Encuentre las corrientes de línea.**
 
-
+![image](https://user-images.githubusercontent.com/85208164/132779399-cf3eb7e2-f4dc-44e4-8332-a4b8780ffad0.png)
 
 
 **21.Para la figura 24-49, Van = 120 V∠0. Dibuje el equivalente de una sola fase y:**
@@ -188,6 +189,8 @@
 **23.Para la figura 24-48, EAN =120 V∠-10. Encuentre la corriente de línea con el método equivalente de una sola fase.**
 
 ![image](https://user-images.githubusercontent.com/85208164/132584863-90e193f2-3a82-4664-a699-d2a29305ef43.png)
+
+![image](https://user-images.githubusercontent.com/85208164/132779422-d4ad3cad-d61a-46a7-b7d1-5030294fbcff.png)
 
 
 **25.Para la figura 24-48, suponga que las líneas tienen una impedancia Zlinea de 0,15Ω +j 0,25Ω y EAN = 120 v ∠0. Convierta la carga Δ en Y y use el equivalente de una fase para encontrar las corrientes de línea.**
