@@ -361,6 +361,8 @@ d. Potencia total en la carga.
 
 ## 4. Video: 
 
+https://www.youtube.com/watch?v=MPGkcueCxJI
+
 ## 5. Conclusiones: 
 
 * Los circuitos polifásicos son aquellos que poseen más de 1 línea de alimentación, pueden estar conectados en estrella o delta, además estos circuitos tienen valores de voltaje y corriente fase, el cual se da cuando se toma una línea y tierra, por otra parte, tienen valores línea a línea, los cuales se dan cuando se toman dos líneas de alimentación.
