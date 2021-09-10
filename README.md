@@ -53,7 +53,7 @@
 
 **En el transformador (a) es está en fase con ep.**
 
-**En el transformador (b) ep**
+**En el transformador (b) ep está desfasado 180°**
 
 **23-2 Transformadores de núcleo de hierro: el modelo ideal**
 
@@ -78,6 +78,50 @@
 **e. Si E_p= 800 V∠0°, ¿qué valor tiene E_s cuando se devana como en la figura 23-7(b)?**
 
 ![image](https://user-images.githubusercontent.com/84594486/132787127-af92c707-8081-4272-ae59-e9fbff2e81e5.png)
+
+**5. Para la figura 23-72, determine las expresiones para v1, v2 y v3.**
+
+![image](https://user-images.githubusercontent.com/84594486/132787321-a5e7fa33-3d25-483d-8ea9-d6ddca957ddf.png)
+
+**7. Si, para la figura 23-73, Eg = 240 V∠0, a  0.5, e Ig = 2 A∠20, determine lo siguiente:**
+
+![image](https://user-images.githubusercontent.com/84594486/132787372-2190f867-b320-445b-b871-55ad8c9aafb6.png)
+
+**9. Si, para la figura 23-73, a  = 4, I_g =4 A∠30°, y Z_L  =6Ω - j8 Ω, determine lo siguiente:**
+
+![image](https://user-images.githubusercontent.com/84594486/132787672-2ea50fcd-569f-4917-b7bc-e5952382d90d.png)
+
+**23-3 Impedancia reflejada**
+
+**11. Para cada circuito de la figura 23-74, determine Z_p.**
+
+![image](https://user-images.githubusercontent.com/84594486/132787738-ce8a8857-f63a-465a-9eb7-ac0591ac8356.png)
+
+**13. Para la figura 23-74(a), ¿qué relación de vueltas se requiere para hacer que Z_p  =(62.5 -j125) Ω ?**
+
+![image](https://user-images.githubusercontent.com/84594486/132787962-56375a49-71e8-466f-a9dd-847630f7ce66.png)
+
+**15. Para cada circuito de la figura 23-75, determine Z_T.**
+
+![image](https://user-images.githubusercontent.com/84594486/132788040-a712df0c-bcc3-4b98-945c-1483ce5287e8.png)
+
+**23-4 Especificaciones del transformador de potencia**
+
+**17. Un transformador tiene una especificación de voltaje primario de 7.2 kV, a =0.2, y una especificación de corriente en el secundario de 3 A. ¿Cuál es la especificación de kVA?**
+
+**23-5 Aplicaciones del transformador**
+
+**19. El transformador de la figura 23-25 tiene un primario de 7200 V y un secundario de 240 V con terminal central. Si la carga 1 consiste en doce lámparas de 100 W, la carga 2 es un calentador de 1500 W y la carga 3 es una horno de 2400 W con F_p  =1.0, determine:**
+
+![image](https://user-images.githubusercontent.com/84594486/132788652-d95aec1f-cb74-45c1-b225-c400a1f77fba.png)
+
+
+**21. Un amplificador con un equivalente de Thévenin de 10 V y R_Th de 25 Ω maneja una bocina de 4 Ω a través de un transformador con una relación de vueltas de a = 5. ¿Cuánta potencia es suministrada a la bocina? ¿Qué relación de vueltas produce 1 W?**
+
+
+**23. Para la figura 23-30(a), a_2=  2 y a_3=  5, Z_2=  20 Ω ∠50°, Z_3=  (12 + j4) Ω  y E_g= 120 V∠0°. Encuentre cada corriente de carga y la corriente del generador.**
+
+![image](https://user-images.githubusercontent.com/84594486/132788706-ea3fccd4-5e33-489b-ba9e-76a31c941f78.png)
 
 
 **25. Para la figura 23-77, Eg = 1220 ∠ 0º.**
