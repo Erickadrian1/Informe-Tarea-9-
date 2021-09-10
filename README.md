@@ -83,13 +83,38 @@
 
 ![image](https://user-images.githubusercontent.com/84594486/132787321-a5e7fa33-3d25-483d-8ea9-d6ddca957ddf.png)
 
-**7. Si, para la figura 23-73, Eg = 240 V∠0, a  0.5, e Ig = 2 A∠20, determine lo siguiente:**
+![image](https://user-images.githubusercontent.com/84594486/132790553-378f07d5-ce67-4e87-9b33-6e25a4ededd1.png)
+
+**7. Si, para la figura 23-73, Eg = 240 V∠0°, a  0.5, e Ig = 2 A∠20°, determine lo siguiente:**
 
 ![image](https://user-images.githubusercontent.com/84594486/132787372-2190f867-b320-445b-b871-55ad8c9aafb6.png)
+
+a. IL
+
+![image](https://user-images.githubusercontent.com/84594486/132790635-62e493ee-8bb6-4e4f-bc28-9159a72a29e5.png)
+
+b. VL
+
+![image](https://user-images.githubusercontent.com/84594486/132790651-a5c6bfd9-0826-40af-833f-481ed8eb9df0.png)
+
+c. Z_L
+
+![image](https://user-images.githubusercontent.com/84594486/132790700-7d3a53d8-c0b2-4923-a5ee-5cabf50d4d44.png)
+
 
 **9. Si, para la figura 23-73, a  = 4, I_g =4 A∠30°, y Z_L  =6Ω - j8 Ω, determine lo siguiente:**
 
 ![image](https://user-images.githubusercontent.com/84594486/132787672-2ea50fcd-569f-4917-b7bc-e5952382d90d.png)
+
+
+a. V_L
+
+![image](https://user-images.githubusercontent.com/84594486/132790797-b77b6f93-9db9-4c67-bcd4-bf7e8a7c5898.png)
+
+b. E_g
+
+![image](https://user-images.githubusercontent.com/84594486/132790814-ca0e483a-8053-4217-8176-9a9e4914143d.png)
+
 
 **23-3 Impedancia reflejada**
 
@@ -97,17 +122,38 @@
 
 ![image](https://user-images.githubusercontent.com/84594486/132787738-ce8a8857-f63a-465a-9eb7-ac0591ac8356.png)
 
+
+![image](https://user-images.githubusercontent.com/84594486/132790886-1f329854-eb48-4fcb-803e-dd0e48b8cfc3.png)
+
+![image](https://user-images.githubusercontent.com/84594486/132790909-68732a18-bc3f-478e-9a94-ab261db432a9.png)
+
+
 **13. Para la figura 23-74(a), ¿qué relación de vueltas se requiere para hacer que Z_p  =(62.5 -j125) Ω ?**
 
 ![image](https://user-images.githubusercontent.com/84594486/132787962-56375a49-71e8-466f-a9dd-847630f7ce66.png)
+
+![image](https://user-images.githubusercontent.com/84594486/132790936-56acef70-3788-4673-b6b2-6c64548f7ac2.png)
+
 
 **15. Para cada circuito de la figura 23-75, determine Z_T.**
 
 ![image](https://user-images.githubusercontent.com/84594486/132788040-a712df0c-bcc3-4b98-945c-1483ce5287e8.png)
 
+![image](https://user-images.githubusercontent.com/84594486/132790974-4b57e601-5676-4789-be4d-ddeeb77c4ab1.png)
+
+![image](https://user-images.githubusercontent.com/84594486/132791013-0acace8c-7058-4b82-be0b-3c38e73bceae.png)
+
+
 **23-4 Especificaciones del transformador de potencia**
 
 **17. Un transformador tiene una especificación de voltaje primario de 7.2 kV, a =0.2, y una especificación de corriente en el secundario de 3 A. ¿Cuál es la especificación de kVA?**
+
+![image](https://user-images.githubusercontent.com/84594486/132791069-b4381d94-8c0d-4320-9266-51685c7cfb5b.png)
+
+![image](https://user-images.githubusercontent.com/84594486/132791104-ea42322d-79fd-4137-8212-254e0db5160c.png)
+
+![image](https://user-images.githubusercontent.com/84594486/132791127-297c18f2-acee-4838-af46-b0c978f72608.png)
+
 
 **23-5 Aplicaciones del transformador**
 
