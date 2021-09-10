@@ -161,13 +161,40 @@ b. E_g
 
 ![image](https://user-images.githubusercontent.com/84594486/132788652-d95aec1f-cb74-45c1-b225-c400a1f77fba.png)
 
+Corriente a través de carga 1
 
-**21. Un amplificador con un equivalente de Thévenin de 10 V y R_Th de 25 Ω maneja una bocina de 4 Ω a través de un transformador con una relación de vueltas de a = 5. ¿Cuánta potencia es suministrada a la bocina? ¿Qué relación de vueltas produce 1 W?**
+![image](https://user-images.githubusercontent.com/84594486/132846370-ccfa3e57-8f23-42f2-85c5-239366f04449.png)
+
+Corriente a través de carga 2
+
+![image](https://user-images.githubusercontent.com/84594486/132846474-2480fbb5-cf95-4b53-8509-84bb4bef5ce0.png)
+
+Corriente a través de carga 3
+
+![image](https://user-images.githubusercontent.com/84594486/132846493-f64bc47e-0f26-44c2-bce5-a60625a9679e.png)
+
+a. I1
+
+![image](https://user-images.githubusercontent.com/84594486/132846512-4dedc88f-2870-49ef-8234-b918d9bfb14d.png)
+
+b. I2
+
+![image](https://user-images.githubusercontent.com/84594486/132846525-7ede3853-a7fa-4d28-aba5-cc222d184ff8.png)
+
+c. IN
+
+![image](https://user-images.githubusercontent.com/84594486/132846549-591e0e3e-1b0e-4cd5-b9fe-dae6d130a366.png)
+
+d. Ip
+
+![image](https://user-images.githubusercontent.com/84594486/132846564-d6efe6f0-e5e1-44e2-839d-52b31fb5c832.png)
 
 
 **23. Para la figura 23-30(a), a_2=  2 y a_3=  5, Z_2=  20 Ω ∠50°, Z_3=  (12 + j4) Ω  y E_g= 120 V∠0°. Encuentre cada corriente de carga y la corriente del generador.**
 
 ![image](https://user-images.githubusercontent.com/84594486/132788706-ea3fccd4-5e33-489b-ba9e-76a31c941f78.png)
+
+![image](https://user-images.githubusercontent.com/84594486/132846945-e279a763-b61b-4794-bad4-444f14498669.png)
 
 
 **25. Para la figura 23-77, Eg = 1220 ∠ 0º.**
