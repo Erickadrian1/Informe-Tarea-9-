@@ -44,6 +44,42 @@
 
 ### Ejercicios Capítulo 23
 
+
+**23-1 Introducción**
+
+**1. Para los transformadores de la figura 23-71, dibuje las formas de onda que faltan.**
+
+![image](https://user-images.githubusercontent.com/84594486/132786589-4cfe2fe8-fdc2-4396-9dd9-e0b0f65947fe.png)
+
+**En el transformador (a) es está en fase con ep.**
+
+**En el transformador (b) ep**
+
+**23-2 Transformadores de núcleo de hierro: el modelo ideal**
+
+**3. Un transformador ideal tiene Np = 1000 vueltas y Ns = 4000 vueltas.**
+
+**a. ¿El voltaje se eleva o se reduce? Se eleva**
+
+![image](https://user-images.githubusercontent.com/84594486/132786865-9bf83122-5590-4d1c-bc87-64cfef1f9a74.png)
+
+**b. Si e_s=100sen(wt), ¿qué valor tiene e_p  cuando se devana como en la figura 23-7(a)?**
+
+![image](https://user-images.githubusercontent.com/84594486/132786957-e997f1f9-6bad-4163-8c6b-aedc2399720b.png)
+
+**c. Si   E_s= 24 volts, ¿qué valor tiene E_P?**
+
+![image](https://user-images.githubusercontent.com/84594486/132787016-ba2c5122-b3bc-4f7d-859b-74211dd1a7a0.png)
+
+**d. Si  E_p= 24 V∠0° , ¿qué valor tiene E_s cuando se devana como en la figura 23-7(a)?**
+
+![image](https://user-images.githubusercontent.com/84594486/132787075-ed4bcacb-fa53-4658-8e81-9c9d052325fc.png)
+
+**e. Si E_p= 800 V∠0°, ¿qué valor tiene E_s cuando se devana como en la figura 23-7(b)?**
+
+![image](https://user-images.githubusercontent.com/84594486/132787127-af92c707-8081-4272-ae59-e9fbff2e81e5.png)
+
+
 **25. Para la figura 23-77, Eg = 1220 ∠ 0º.**
 
 **a. dibuje el circuito equivalente.**
